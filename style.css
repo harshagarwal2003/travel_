@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 93vh;
+}
+.about_img{
+    min-width: 100%;
+    max-height: 280px;
+}
+
+.services img{
+    width: 100%;
+    height: 100%;
+}
+div{
+    margin:0;
+    padding:0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+.blog-read-time-bar.-active{
+    display:block;
+}
+@media(min-width: 600px){
+    .blog-read-time-bar{
+        height:0.5rem;
+    }
+}
+.blog-read-time-bar{
+    position: absolute;
+    width: 100%;
+
+}
+.offer_style{
+    background-color: lightblue;
+}
+footer p{
+    margin-bottom: 0;
+}
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    
+ }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
+/* 
+// XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+ }
